@@ -12,12 +12,12 @@
 
 <hr>
 <h2> 💫 About Me:</h1>
-- 👯 Currently I am learning java, javascript, Linux.
+- Currently I am learning java, javascript, Linux.
 <br>
 <br>
 - 💬 Ask me about HTML, CSS, JAVA.
 <br><br>
-- 📫 How to reach me: **chaurasiapriyanshu60@gmail.com**
+- 📫 How to reach me: chaurasiapriyanshu60@gmail.com
 <br>
 <br>
 - ⚡ Fun fact **Doesn't Exist!!**
@@ -76,9 +76,9 @@
 </td>
 
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=deepakguptabca&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com/?user=priyanshuchaurasiadev&theme=tokyonight&hide_border=false"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepakguptabca&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshuchaurasiadev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
