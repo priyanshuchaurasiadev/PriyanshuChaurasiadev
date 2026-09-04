@@ -2,7 +2,7 @@
 <tr>
 <td width ="60%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&color=20E2F7&hight=100&width=435&lines=Hello+World+!!;Hey+!+I'm+Priyanshu)](https://git.io/typing-svg)</td>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=998&color=34F1F7&center=true&vCenter=true&width=435&lines=Hello+World+!!;Hey+!+I'm+Priyanshu)](https://git.io/typing-svg)</td>
 
 <td width ="40%">
 <img src= "https://c.tenor.com/a6S35wgiCOsAAAAC/tenor.gif">
@@ -71,11 +71,11 @@
 <h1>Stats</h1>
 <table>
 <tr width="100%">
-<td width="50">
+<td width="50%">
 <img src="https://github-readme-stats.shion.dev/api?username=priyanshuchaurasiadev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
 </td>
 
-<td width="50">
+<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=deepakguptabca&theme=tokyonight&hide_border=false"/>
 </td>
 </tr>
