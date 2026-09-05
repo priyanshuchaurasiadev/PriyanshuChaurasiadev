@@ -15,7 +15,7 @@
 - Currently I am learning java, javascript, Linux.
 <br>
 <br>
-- 💬 Ask me about HTML, CSS, JAVA.
+- 💬 Ask me about HTML, CSS,.
 <br><br>
 - 📫 How to reach me: chaurasiapriyanshu60@gmail.com
 <br>
@@ -44,7 +44,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,java,js" height="50"/>
 
 
 </td>
@@ -52,7 +52,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css" height="50"/>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"/>
 
 </td>
 </tr>
